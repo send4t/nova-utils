@@ -807,6 +807,14 @@
       ]
     },
     {
+      "name": "Signet",
+      "url": "https://polkadotmultisig.com/",
+      "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/dapps/dapps/color/Signet.svg",
+      "categories": [
+        "utilities"
+      ]
+    },
+    {
       "name": "Neferti-Tee",
       "url": "https://neferti-tee.com",
       "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/dapps/dapps/color/NefertiTee.png",
